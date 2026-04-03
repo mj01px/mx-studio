@@ -6,17 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=+MX+Studio;Create,+Code;Without+Boundaries." alt="Typing SVG" />
 </a>
 
-  <br/>
-    <br/>
-
-  <sub>
-    <a href="https://github.com/mj01px"><b>Mauro Junior</b></a>
-    &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/mauroapjunior/">LinkedIn</a>
-  </sub>
-
-  <br/><br/>
-
 </div>
 
 ## `~/stack`

@@ -1,0 +1,26 @@
+@import "@fontsource/outfit/400.css";
+@import "@fontsource/outfit/500.css";
+@import "@fontsource/outfit/600.css";
+@import "@fontsource/outfit/700.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-background text-foreground font-sans antialiased selection:bg-accent selection:text-white;
+  }
+}
+
+@layer utilities {
+  .liquid-glass {
+    @apply bg-white/70 backdrop-blur-xl border border-white/20 shadow-[inset_0_1px_0_rgba(255,255,255,0.4),0_8px_32px_-8px_rgba(0,0,0,0.04)];
+  }
+  
+  .bento-card {
+    @apply liquid-glass rounded-[2.5rem] p-8 md:p-10 relative overflow-hidden transition-all duration-500 ease-out;
+  }
+}
+
+/* Force Vite rebuild */
